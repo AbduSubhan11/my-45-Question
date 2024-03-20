@@ -1,4 +1,0 @@
-let names = ["Sarim","Suffiyan","Naveed","Ahtesham"];
-names.forEach((val)=>{
-    console.log(val)
-});
