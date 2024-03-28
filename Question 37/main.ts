@@ -1,4 +1,4 @@
-let make_shirt=(size:any,message:string="I love TypeScript")=>{
+let make_shirt=(size:string,message:string="I love TypeScript")=>{
     console.log(`Size of the Shirt is ${size} and the message printed on shirt is ${message}`)
 }
 make_shirt("medium");
