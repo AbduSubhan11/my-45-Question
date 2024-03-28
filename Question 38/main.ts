@@ -1,4 +1,4 @@
-let describe_city = (city:any,Country:string="Pakistan")=>{
+let describe_city = (city:string,Country:string="Pakistan")=>{
     console.log(`${city} is in the ${Country}`)
 }
 describe_city("Karachi");
